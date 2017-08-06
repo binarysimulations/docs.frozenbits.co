@@ -2,7 +2,7 @@
 
 - Owner: Patrick Young
 - Status: Not Released
-- Score: 0
+- Metrics: ->
 
 ### Purpose
 
@@ -15,5 +15,3 @@ A place where our customers can get 411 on everything Frozen Bits.
 - Menu
 
 ### Contacts
-
-### Governing Processes
