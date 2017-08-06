@@ -1,8 +1,8 @@
 # Marketing site for Frozen Bits
 
-Owner: Patrick Young
-Status: Not Released
-Score: 0
+- Owner: Patrick Young
+- Status: Not Released
+- Score: 0
 
 ### Purpose
 
